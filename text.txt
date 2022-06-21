@@ -1,2 +1,4 @@
 Copied from outside.
 Modified.
+
+Git gui lesson.
